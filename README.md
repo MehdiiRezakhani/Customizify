@@ -7,7 +7,7 @@ Preview: https://project3.mehdirezakhani.ir/
 
 Do these commands to run the project:
 
-$ git clone https://github.com/MehdiiRezakhani/Crypto-view.git
+$ git clone https://github.com/MehdiiRezakhani/Customizify.git
 
 npm install
 
