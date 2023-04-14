@@ -1,0 +1,32 @@
+{
+  "name": "customizify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export":"next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.65.3",
+    "@react-three/fiber": "^8.12.0",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "framer-motion": "^10.11.6",
+    "maath": "^0.5.3",
+    "next": "13.3.0",
+    "next-pwa": "^5.6.0",
+    "postcss": "8.4.21",
+    "rc-tooltip": "^6.0.1",
+    "react": "18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "18.2.0",
+    "react-pwa-add-to-homescreen": "^1.1.7",
+    "tailwindcss": "3.3.1",
+    "three": "^0.151.3",
+    "valtio": "^1.10.4"
+  }
+}
